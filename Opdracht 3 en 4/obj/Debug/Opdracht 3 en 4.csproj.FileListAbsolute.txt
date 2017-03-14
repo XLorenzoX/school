@@ -1,0 +1,66 @@
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\ApplicationInsights.config
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\csc.exe
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\vbc.exe
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.dll.config
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.pdb
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.dll
+D:\Visual Studio 2015\Projects\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.pdb
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\ApplicationInsights.config
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\csc.exe
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\System.Collections.Immutable.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\vbc.exe
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\VBCSCompiler.exe
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\roslyn\VBCSCompiler.exe.config
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.dll.config
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Opdracht 3 en 4.pdb
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.DependencyCollector.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Web.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.WindowsServer.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.ApplicationInsights.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.DependencyCollector.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.Web.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.AI.WindowsServer.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.ApplicationInsights.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.csprojResolveAssemblyReference.cache
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.dll
+E:\Bureaublad\Backend\Opdracht 3 en 4\Opdracht 3 en 4\obj\Debug\Opdracht 3 en 4.pdb
